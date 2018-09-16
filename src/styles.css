@@ -1,0 +1,25 @@
+.group-items-container {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 15px;
+}
+
+.icon {
+  padding-right: 5px;
+}
+.group-items {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+}
+
+.item {
+  color: rgb(231, 148, 40);
+  padding-top: 3px;
+}
+
+.header {
+  font-size: 16px;
+  font-weight: 700;
+  padding-bottom: 5px;
+}

@@ -1,2 +1,0 @@
-# GroupList
-Created with CodeSandbox
